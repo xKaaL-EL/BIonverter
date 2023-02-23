@@ -1,9 +1,12 @@
 # BIonverter
 
-+ A Compact Java Application that coverts Digtal image to Binary File.
-+ Convert Digital Image to Text File in which image is formed from 0 & 1.
-+ Basic GUI implementation with JavaFx/Java Swings
++ A Compact Java Application for coverting Digtal image to Binary File.
++ Converts Digital Image to Text File having image formed of 0's & 1's.
++ Basic GUI implementation using JavaFx/Java Swings.
 + User friendly Interface.
++ Compiled executable(.exe) runs on any version of windows.
+
+
 
 </> with ❤️
  
