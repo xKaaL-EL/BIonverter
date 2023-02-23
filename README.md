@@ -6,7 +6,9 @@
 + User friendly Interface.
 + Compiled executable(.exe) runs on any version of windows.
 
+https://user-images.githubusercontent.com/63342672/220863801-d194939f-b1ef-4118-abd0-9df84969004a.mp4
 
 
-</> with ❤️
+
+"</> with ❤️"
  
