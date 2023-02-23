@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BIonverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BIonverter_jar</output-path>
+    <root id="archive" name="BIonverter.jar">
+      <element id="module-output" name="BIonverter" />
+    </root>
+  </artifact>
+</component>
